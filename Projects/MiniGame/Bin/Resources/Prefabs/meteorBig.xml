@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<GameObject uuid="" name="Asteroid">
+	<Components>
+		<Component class="Transform">
+			<Position x="0" y="0"/>
+			<Rotation a="0"/>
+			<Scale x="1" y="1"/>
+		</Component>	
+		<Component class="Sprite">
+			<TextureUID uuid="c9ccb902-57d2-401b-a9ae-ff7f45bf5171" />
+		</Component>	
+		<Component class="Asteroid">
+			<MinSpeed value="20"/>
+			<MaxSpeed value="50"/>
+		</Component>	
+	</Components>
+</GameObject>

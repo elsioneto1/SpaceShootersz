@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<GameObject uuid="" name="EnemyShootObject">
+	<Components>
+		<Component class="Transform">
+			<Position x="0" y="10000"/>
+			<Rotation a="0"/>
+			<Scale x="1" y="1"/>
+		</Component>	
+		<Component class="Sprite">
+			<TextureUID uuid="7b1b509e-dfeb-46cb-9a33-5591aa3cb392" />
+		</Component>	
+		<Component class="EnemyShootObject">
+			<Speed value="20"/>
+		</Component>	
+	</Components>
+</GameObject>

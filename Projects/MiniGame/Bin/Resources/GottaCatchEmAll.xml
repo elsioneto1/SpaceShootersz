@@ -1,0 +1,422 @@
+<?xml version="1.0"?>
+<Files>
+</Files>
+<Assets>
+	<Asset>Resources/Fonts/cour.ttf</Asset>
+	<Asset>Resources/Textures/enemyUFO.png</Asset>
+	<Asset>Resources/Textures/meteorBig.png</Asset>
+	<Asset>Resources/Textures/laserGreen.png</Asset>
+	<Asset>Resources/Textures/laserRed.png</Asset>
+	<Asset>Resources/Textures/player.png</Asset>
+	<Asset>Resources/Textures/Buttons/Continue.png</Asset>
+	<Asset>Resources/Textures/Buttons/ContinuePressed.png</Asset>
+	<Asset>Resources/Textures/Buttons/NewGame.png</Asset>
+	<Asset>Resources/Textures/Buttons/NewGamePressed.png</Asset>
+	<Asset>Resources/Textures/Buttons/Load.png</Asset>
+	<Asset>Resources/Textures/Buttons/LoadPressed.png</Asset>
+	<Asset>Resources/Textures/Buttons/Quit.png</Asset>
+	<Asset>Resources/Textures/Buttons/QuitPressed.png</Asset>
+	<Asset>Resources/Textures/Buttons/SaveGame.png</Asset>
+	<Asset>Resources/Textures/Buttons/SaveGamePressed.png</Asset>
+	<Asset>Resources/Textures/starBackground.png</Asset>
+	<Asset>Resources/Prefabs/UFO.xml</Asset>
+	<Asset>Resources/Prefabs/laserGreen.xml</Asset> 
+	<Asset>Resources/Prefabs/laserRed.xml</Asset>  
+	<Asset>Resources/Prefabs/meteorBig.xml</Asset> 
+</Assets>
+<GameObjects>
+
+
+
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="-256" y="-768"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="256" y="-768"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="-256" y="-256"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="256" y="-256"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+	
+	
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="-256" y="256"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="256" y="256"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+	
+	
+	
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="-256" y="768"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3358" name="Background">
+		<Components>
+		<Component class="Transform">
+			<Position x="256" y="768"/>
+			<Rotation a="0"/>
+			<Scale x="2" y="2"/>
+		</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="cf70a305-06a4-424f-87a0-df1b163da8fa" />
+			</Component>
+		
+			<Component class="Background">
+				<Velocity Value="0.5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+<GameObject uuid="b2cc93c7-5ccd-4f1c-9e34-9e2cabdc3359" name="AsteroidFactory">
+		<Components>
+			<Component class="AsteroidFactory">
+				<PrefabAsset uuid="d00cba1e-8b20-4947-9bb6-4972bf9f9588" />
+				<SpawnDelay StartTime="4" EndTime="0.5" MinBaseVel="5" MaxBaseVel="10" MaxVelMultiplier="5" />
+			</Component> 
+		</Components>
+	</GameObject>
+
+	<GameObject uuid="be5f8572-736e-4279-911a-97f9e18e1fd9" name="UFOFactory">
+		<Components>
+			<Component class="UFOFactory">
+				<PrefabAsset uuid="a7433b49-9ada-49fd-b035-f3ddac137793" />
+				<SpawnDelay value="1" />
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="1ae13023-5acd-4cc1-a9fd-3ab1798c93e7" name="ShootFactory">
+		<Components>
+			<Component class="ShootFactory">
+				<PrefabAsset uuid="12b08639-5543-4d88-8afa-4ed9f724a52a" />
+				<PrefabAsset2 uuid="cbc73ae3-6631-4f2f-88bc-2a46d869408e" />
+			</Component> 
+		</Components>
+	</GameObject>
+	
+		
+	
+	
+	
+	<GameObject uuid="25242175-f683-4eed-bf0f-b7a4d7b82eeb" name="MainPlayer">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="0"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="9e61f90e-a91c-43d2-9bff-0fa64cd0ddf4" />
+			</Component>
+			<Component class="MainPlayerController">
+				<Speed value="3" />
+			</Component>
+		</Components>
+	</GameObject>
+	
+		<!- main menu>
+	
+
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c6" name="NewButtonP">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="-100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="5ed5dbbf-e07a-4126-bdd2-becfcc3661dd" />
+			</Component>
+			<Component class="MainMenuObject">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c6" name="NewButton">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="-100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="265572b4-85bd-4640-bbe7-ed22dfc77495" />
+			</Component>
+			<Component class="MainMenuObject">
+				<id>0</id>
+			</Component>
+		</Components>
+	</GameObject>
+	
+	
+	<GameObject uuid="d6292d4f-e9a6-45d1-9cfb-b166049e5cdb" name="ContinueButtonP">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="0"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="8a166542-4523-49c9-b3d1-369f7eaa8640" />
+			</Component>
+			<Component class="MainMenuObject">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="d6292d4f-e9a6-45d1-9cfb-b166049e5cdc" name="ContinueButton">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="0"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="ae88668a-20dc-40cc-944b-b08ee79382eb" />
+			</Component>
+			<Component class="MainMenuObject">
+				<id>1</id>
+			</Component>
+		</Components>
+	</GameObject>
+	
+	
+	
+	
+	
+	<!- pause menu>
+	<GameObject uuid="864db397-7759-4fac-9ea1-f270bce35f13" name="ContinueButtonP">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="-100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="8a166542-4523-49c9-b3d1-369f7eaa8640" />
+			</Component>
+			<Component class="PauseMenuObject">
+			</Component>
+		</Components>
+	</GameObject>
+	<GameObject uuid="864db397-7759-4fac-9ea1-f270bce35f14" name="ContinueButton">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="-100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="ae88668a-20dc-40cc-944b-b08ee79382eb" />
+			</Component>
+			<Component class="PauseMenuObject">
+				<id>0</id>
+			</Component>
+		</Components>
+	</GameObject>
+	
+	
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c5" name="SaveButtonP">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="0"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="5e5fec22-fb30-4617-a932-4042eaf8c5ae" />
+			</Component>
+			<Component class="PauseMenuObject">
+			</Component>
+		</Components>
+	</GameObject>
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c6" name="SaveButton">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="0"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="d6bd99e1-ebfc-4b90-ae83-bd940bf622c4" />
+			</Component>
+			<Component class="PauseMenuObject">
+				<id>1</id>
+			</Component>
+		</Components>
+	</GameObject>
+	
+	
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c7" name="QuitP">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="8e68c208-41f2-4b80-af27-a457c93bd696" />
+			</Component>
+			<Component class="PauseMenuObject">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	<GameObject uuid="534d727d-4196-4ac7-95e4-38326b5961c6" name="Quit">
+		<Components>
+			<Component class="Transform">
+				<Position x="0" y="100"/>
+				<Rotation a="0"/>
+				<Scale x="1" y="1"/>
+			</Component>			
+			<Component class="Sprite">
+				<TextureUID uuid="d50322f2-f9f8-4ac0-a7be-73a3cd89e028" />
+			</Component>
+			<Component class="PauseMenuObject">
+				<id>2</id>
+			</Component>
+		</Components>
+	</GameObject>
+	
+	
+	
+	<GameObject uuid="0cc12099-e93b-4369-83b2-2a139bc96122" name="MainMenu">
+		<Components>
+			<Component class="MainMenu">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="0cc12099-e93b-4369-83b2-2a139bc96134" name="LoadHighScore">
+		<Components>
+			<Component class="LoadHighScore">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="cf7bb573-f6fc-4c48-b41c-59554c0da542" name="PauseMenu">
+		<Components>
+			<Component class="PauseMenu">
+				
+			</Component>
+		</Components>
+	</GameObject>
+	
+	<GameObject uuid="8b9a7de5-1097-4e8a-beff-7e7f3cd68175" name="HUD">
+		<Components>
+			<Component class="ScoreHud" layer = "100">
+				<FontAsset uuid="02f75546-517e-40bb-ba08-c7fb32a9a1cf" />
+				<Position x="-1" y="-1"/>
+			</Component>
+		</Components>
+	</GameObject>
+
+	
+</GameObjects>

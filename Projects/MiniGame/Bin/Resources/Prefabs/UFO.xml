@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<GameObject uuid="" name="UFO">
+	<Components>
+		<Component class="Transform">
+			<Position x="0" y="0"/>
+			<Rotation a="0"/>
+			<Scale x="1" y="1"/>
+		</Component>	
+		<Component class="Sprite">
+			<TextureUID uuid="82bdbed4-cd7a-4da2-a46c-5cf35aae33f0" />
+		</Component>	
+		<Component class="UFOController">
+			<MinSpeed value="20"/>
+			<MaxSpeed value="50"/>
+		</Component>	
+	</Components>
+</GameObject>

@@ -1,0 +1,1774 @@
+<Root>
+    <PlayerInfo>
+        <SpecialInfo respawnTimer="0" respawning="0" immortalTimer="0" immortal="0"/>
+        <Lifes Value="1"/>
+        <Pos X="-61.403866" Y="139.00005"/>
+    </PlayerInfo>
+    <GameManager Score="545"/>
+    <Asteroids>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="244" startY="-612" endX="416" endY="612"/>
+            <Angle Value="122.62075"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="-356" startY="612" endX="-483" endY="-612"/>
+            <Angle Value="86.388748"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="193" startY="612" endX="-352" endY="-612"/>
+            <Angle Value="32.166664"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="-319" startY="612" endX="-70" endY="-612"/>
+            <Angle Value="100.42847"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="460" startY="499" endX="-460" endY="104"/>
+            <Angle Value="78.750908"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="460" startY="-15" endX="-460" endY="-262"/>
+            <Angle Value="57.464405"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="144" startY="612" endX="495" endY="-612"/>
+            <Angle Value="77.207733"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="24.809988"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="460" startY="-106" endX="-460" endY="-275"/>
+            <Angle Value="41.553688"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+        <Asteroid>
+            <Damage Value="120"/>
+            <PercentageComplete Value="0"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+            <Angle Value="0"/>
+        </Asteroid>
+    </Asteroids>
+    <Ufos>
+        <Ufo>
+            <PercentageComplete Value="36"/>
+            <Behaviour behaviourDefined="1" subBehaviour="1"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="0" startY="0" endX="720" endY="1024"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="36"/>
+            <Behaviour behaviourDefined="1" subBehaviour="1"/>
+            <Sleeping Value="1"/>
+            <PathValues startX="0" startY="0" endX="720" endY="1024"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="61"/>
+            <Behaviour behaviourDefined="0" subBehaviour="1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="0" startY="0" endX="720" endY="1024"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+        <Ufo>
+            <PercentageComplete Value="0"/>
+            <Behaviour behaviourDefined="0" subBehaviour="-1"/>
+            <Sleeping Value="0"/>
+            <PathValues startX="5000" startY="5000" endX="5000" endY="5000"/>
+        </Ufo>
+    </Ufos>
+    <Shoots>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.50045967" Y="0.86575985"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.86536103" Y="0.50114894"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="-0.50183791" Y="-0.86496168"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0.8645618" Y="-0.50252652"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+        <Bullet>
+            <Pos X="0" Y="10000"/>
+            <OnScreen Value="1"/>
+            <normalDirection X="0" Y="0"/>
+        </Bullet>
+    </Shoots>
+</Root>
